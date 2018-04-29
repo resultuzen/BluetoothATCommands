@@ -27,7 +27,7 @@ First we run the __'AT'__ command. If the __'OK'__ returns, we can now run other
 ```
 
 
-# Bluetooth Password Settings
+## Bluetooth Password Settings
 
 - __AT+PIN__ 
 
