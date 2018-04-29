@@ -45,3 +45,12 @@ AT+PINXYZW (False)
 ```
 > If the **'AT+PIN'** command is executed, the **'OKsetPIN'** command will return the value.
  
+<br/>
+
+## Bluetooth Version Settings
+
+- __AT+VERSION__ 
+
+> If the **'AT+VERSION'** command is run, it will send back the bluetooth version.
+
+ 
