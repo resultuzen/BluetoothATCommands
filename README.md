@@ -3,7 +3,7 @@ Software was made to use the AT commands for bluetooth modules.
 
 First we run the **'AT'** command. If the **'OK'** returns, we can now run other commands.
 
-
+<br/>
 
 ## Bluetooth Baudrate Settings
 
@@ -18,6 +18,8 @@ First we run the **'AT'** command. If the **'OK'** returns, we can now run other
 
 > If the **'AT+BAUDvalue'** command is executed, the **'OKvalue'** command will return the value.
 
+<br/>
+
 ## Bluetooth Name Settings
 
 - __AT+NAME__ 
@@ -28,6 +30,8 @@ AT+NAMEresul, AT+NAMEtuzen, AT+NAMEResul01
 
 ```
 > If the **'AT+NAME'** command is executed, the **'OKsetname'** command will return the value.
+
+<br/>
 
 ## Bluetooth Password Settings
 
