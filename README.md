@@ -1,7 +1,7 @@
 # Bluetooth AT Commands
 Software was made to use the AT commands for bluetooth modules.
 
-First we run the __'AT'__ command. If the __'OK'__ returns, we can now run other commands.
+First we run the **'AT'** command. If the **'OK'** returns, we can now run other commands.
 
 
 
@@ -16,7 +16,7 @@ First we run the __'AT'__ command. If the __'OK'__ returns, we can now run other
 - __AT+BAUD7__ 	// 57600 Baud
 - __AT+BAUD8__ 	// 115200 Baud
 
-> If the 'AT+BAUDvalue' command is executed, the 'OKvalue' command will return the value.
+> If the **'AT+BAUDvalue'** command is executed, the **'OKvalue'** command will return the value.
 
 ## Bluetooth Name Settings
 
@@ -27,7 +27,7 @@ First we run the __'AT'__ command. If the __'OK'__ returns, we can now run other
 AT+NAMEresul, AT+NAMEtuzen, AT+NAMEResul01
 
 ```
-> If the 'AT+NAME' command is executed, the 'OKsetname' command will return the value.
+> If the **'AT+NAME'** command is executed, the **'OKsetname'** command will return the value.
 
 ## Bluetooth Password Settings
 
@@ -39,5 +39,5 @@ AT+PIN0123 (True)
 AT+PINR2D2 (False)
 AT+PINXYZW (False)
 ```
-> If the 'AT+PIN' command is executed, the 'OKsetPIN' command will return the value.
+> If the **'AT+PIN'** command is executed, the **'OKsetPIN'** command will return the value.
  
