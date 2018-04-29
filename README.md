@@ -4,6 +4,7 @@ Software was made to use the AT commands for bluetooth modules.
 First we run the __'AT'__ command. If the __'OK'__ returns, we can now run other commands.
 
 
+
 ## Bluetooth Baudrate Settings
 
 - __AT+BAUD1__ 	// 1200 Baud
