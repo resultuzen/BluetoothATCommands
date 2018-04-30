@@ -16,7 +16,7 @@ First we run the **'AT'** command. If the **'OK'** returns, we can now run other
 - __AT+BAUD7__ 	// 57600 Baud
 - __AT+BAUD8__ 	// 115200 Baud
 
-> If the **'AT+BAUDvalue'** command is executed, the **'OKvalue'** command will return the value.
+> For example, if the **'AT+BAUD4'** command is executed, the **'OK9600'** command will return the value.
 
 <br/>
 
