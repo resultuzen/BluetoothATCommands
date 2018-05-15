@@ -6,10 +6,10 @@
     \/ \_/\___||___/\__,_|_|  \/    \__,_/___\___|_| |_|
     
                                                                                                                                   
-       Arduino       Bluetooth
-      _________     ___________
-         RX      ->     TX
-         TX      ->     RX
+       Bluetooth        Arduino 
+      ___________      _________
+         RX        ->      4
+         TX        ->      2
 */
 
 #include <SoftwareSerial.h>
