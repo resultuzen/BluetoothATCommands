@@ -1,4 +1,4 @@
-# Bluetooth AT Komutları - Türkçe Dili
+# Bluetooth AT Komutları - Türkçe
 Bu doküman, Bluetooth üzerinden AT komutlarını kullanmak için yapılmıştır.
 
 İlk olarak **'AT'** komutunu seri haberleşme ekranı üzerinden yolluyoruz.  Eğer ekranda **'OK'** yazarsa, artık diğer komutları yollayabiliriz.
@@ -58,7 +58,7 @@ AT+PINXYZW (Yanlış)
 <br/>
 <br/>
 
-# Bluetooth AT Commands - English Language
+# Bluetooth AT Commands - English
 Software was made to use the AT commands for bluetooth modules.
 
 First we run the **'AT'** command. If the **'OK'** returns, we can now run other commands.
